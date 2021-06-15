@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: lightslategray;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+  margin-top: 10%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+.blue {
+  color: rgb(72, 82, 219);
+}
+
+.yellow {
+  color: yellow;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+input {
+  margin-top: 2rem;
+  width: 60%;
+  padding: 6px;
+  border: 1px solid lightslategrey;
+  border-radius: 15px;
+}
+
+ul {
+  margin-top: 4%;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 10px;
+}
+
+p {
+  margin-top: 2rem;
+}
+
+span {
+  color: blue;
+}
